@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="inacap.png" alt="INACAP Logo" width="220" />
+</p>
+
 # Bitácora de Instalación y Configuración de GitHub CLI
 
 Este repositorio documenta el procedimiento completo realizado para la instalación, verificación, autenticación y configuración de **GitHub CLI (`gh`)** en un entorno Windows con PowerShell.
